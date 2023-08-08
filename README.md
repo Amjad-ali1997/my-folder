@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AMJAD ALI</h1>
-<h3 align="center">A passionate data enthusiasm from India</h3>
+<h3 align="center">A passionate Data Enthusiasm from India</h3>
+
+<img align="right" alt=" coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjad-ali1997&label=Profile%20views&color=0e75b6&style=flat" alt="amjad-ali1997" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amjadali1997/](https://www.linkedin.com/in/amjadali1997/)
-
 - 📫 How to reach me **official.aliamjad@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
